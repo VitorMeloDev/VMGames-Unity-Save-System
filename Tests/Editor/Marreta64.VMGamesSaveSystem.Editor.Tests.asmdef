@@ -1,0 +1,14 @@
+{
+    "name": "Marreta64.VMGamesSaveSystem.Editor.Tests",
+    "references": [
+        "Marreta64.VMGamesSaveSystem.Editor",
+        "Marreta64.VMGamesSaveSystem"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

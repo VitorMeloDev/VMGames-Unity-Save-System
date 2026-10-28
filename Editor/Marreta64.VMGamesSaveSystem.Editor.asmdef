@@ -1,0 +1,10 @@
+{
+    "name": "Marreta64.VMGamesSaveSystem.Editor",
+    "references": [
+      "Marreta64.VMGamesSaveSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
